@@ -1,4 +1,5 @@
 #python packages
+gunicorn
 
 #django packages
 Django==1.4
