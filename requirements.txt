@@ -1,0 +1,4 @@
+#python packages
+
+#django packages
+Django==1.4
