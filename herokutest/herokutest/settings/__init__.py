@@ -144,4 +144,4 @@ LOGGING = {
     }
 }
 
-from herokutest.settings.local import *
+#from herokutest.settings.local import *
