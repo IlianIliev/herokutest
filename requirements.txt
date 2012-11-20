@@ -1,5 +1,7 @@
 #python packages
 gunicorn
+psycopg2
 
 #django packages
 Django==1.4
+dj-database-url
